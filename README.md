@@ -1,5 +1,5 @@
+# Group No: 1
 
-**Group No: 1**
 Covid-19 AID for Detection of Corona virus from X-Ray Images using CNN
 We presented CovidAID (Covid AI Detector), a Python3-based implementation, to identify
 COVID-19 virus-infected persons from chest X-Ray images. The model takes as input a chest
